@@ -1,5 +1,5 @@
 // export const BASE_URL = "https://api.chaloghoomne.com/api/v1/";
-export const BASE_URL = "http://localhost:3001/api/v1/";
+export const BASE_URL = "https://www.holidaysera.com/api/v1/";
 export const NetworkConfig = {
 	ADDCONTENT: "/add-content",
 	ADMINLOGIN: "admin-login",
